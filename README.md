@@ -4,15 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">Building digital solutions while mastering the full-stack journey</h3>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yourprofile)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
-  
-</div>
 
 ---
 
@@ -44,19 +36,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-![Theshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheshanGeethanjan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=5C7AFF&icon_color=5C7AFF&text_color=FFFFFF)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheshanGeethanjan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=5C7AFF&fire=5C7AFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheshanGeethanjan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5C7AFF&text_color=FFFFFF)
-
-</div>
-
----
 
 ## 🚀 Current Projects
 
